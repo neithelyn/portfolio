@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth; /* Включает плавную прокрутку по всей странице */
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,6 +9,7 @@
 }
 
 body {
+  
   font-family: Arial, sans-serif;
   color: #25282B;
   background-color: #F9FAFB;
